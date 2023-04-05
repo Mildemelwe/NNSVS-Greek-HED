@@ -1,5 +1,5 @@
 # NNSVS Greek HED
-Greek language HED and dic for NNSVS training
+Greek language HED and dictionaries for NNSVS/DiffSinger training
 # Flags
 (Copied from the Dyvaux JP HED)
 
